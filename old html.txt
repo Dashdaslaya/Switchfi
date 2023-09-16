@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switchfi - Your DNS Server</title>
+    <!-- Link your style.css here -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Switchfi</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#adblock">Ad Blocker</a></li>
+            <li><a href="#firewall">Firewall</a></li>
+            <!-- Add more navigation links as needed -->
+        </ul>
+    </nav>
+    <main>
+        <!-- Content for your main page goes here -->
+    </main>
+    <footer>
+        <p>&copy; 2023 Switchfi DNS Server</p>
+    </footer>
+    <!-- Link your gamepad.js script here -->
+    <script src="gamepad.js"></script>
+</body>
+</html>
