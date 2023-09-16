@@ -1,0 +1,58 @@
+/* Reset default margin and padding */
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set the background gradient */
+body {
+    background: linear-gradient(to bottom, #FF69B4, #800080);
+    font-family: Arial, sans-serif; /* You can change the font-family as needed */
+    color: white; /* Text color */
+}
+
+/* Style the header */
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the navigation menu */
+nav {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Style the main content */
+main {
+    padding: 20px;
+}
+
+/* Style the footer */
+footer {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Additional styles can be added as needed */
